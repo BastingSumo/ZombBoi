@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 1d78ad903bc20d44686e6e44a25b310d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6339502069001137937
+    second: Dungeon floor cleaned for export-Sheet_0
+  - first:
+      213: -1186356220024277769
+    second: Dungeon floor cleaned for export-Sheet_1
+  - first:
+      213: 8766088900675020949
+    second: Dungeon floor cleaned for export-Sheet_2
+  - first:
+      213: -2253735424517028733
+    second: Dungeon floor cleaned for export-Sheet_3
+  - first:
+      213: -8318164179973179892
+    second: Dungeon floor cleaned for export-Sheet_4
+  - first:
+      213: -198807736972364622
+    second: Dungeon floor cleaned for export-Sheet_5
+  - first:
+      213: 48061123543169472
+    second: Dungeon floor cleaned for export-Sheet_6
+  - first:
+      213: -69462717002934956
+    second: Dungeon floor cleaned for export-Sheet_7
+  - first:
+      213: -1391960555541175362
+    second: Dungeon floor cleaned for export-Sheet_8
+  - first:
+      213: -3913138079882621186
+    second: Dungeon floor cleaned for export-Sheet_9
+  - first:
+      213: 3258464848147685297
+    second: Dungeon floor cleaned for export-Sheet_10
+  - first:
+      213: 6971643031508078166
+    second: Dungeon floor cleaned for export-Sheet_11
+  - first:
+      213: -4699664625927514266
+    second: Dungeon floor cleaned for export-Sheet_12
+  - first:
+      213: 4776529893838612940
+    second: Dungeon floor cleaned for export-Sheet_13
+  - first:
+      213: 1961110641516013091
+    second: Dungeon floor cleaned for export-Sheet_14
+  - first:
+      213: 2200667363650986572
+    second: Dungeon floor cleaned for export-Sheet_15
+  - first:
+      213: 1716556504085265902
+    second: Dungeon floor cleaned for export-Sheet_16
+  - first:
+      213: 3672219291185159623
+    second: Dungeon floor cleaned for export-Sheet_17
+  - first:
+      213: -1461490548010671173
+    second: Dungeon floor cleaned for export-Sheet_18
+  - first:
+      213: 5305279113630155009
+    second: Dungeon floor cleaned for export-Sheet_19
+  - first:
+      213: 4394433152597667243
+    second: Dungeon floor cleaned for export-Sheet_20
+  - first:
+      213: 2369785063590938190
+    second: Dungeon floor cleaned for export-Sheet_21
+  - first:
+      213: -4560582710910635921
+    second: Dungeon floor cleaned for export-Sheet_22
+  - first:
+      213: 862650532116959339
+    second: Dungeon floor cleaned for export-Sheet_23
+  - first:
+      213: 6292545437954274575
+    second: Dungeon floor cleaned for export-Sheet_24
+  - first:
+      213: 5427156657994459919
+    second: Dungeon floor cleaned for export-Sheet_26
+  - first:
+      213: 9056485516027999
+    second: Dungeon floor cleaned for export-Sheet_27
+  - first:
+      213: 9066769292281572673
+    second: Dungeon floor cleaned for export-Sheet_28
+  - first:
+      213: 9011489931685422571
+    second: Dungeon floor cleaned for export-Sheet_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1261
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaf415cb64c0714bbea4a8ed49d9130
+      internalID: -6339502069001137937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1261
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913a40dfd269c2c4889c27f957963211
+      internalID: -1186356220024277769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1261
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911c78cc3d52fe84990e429b5b1f6819
+      internalID: 8766088900675020949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1261
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041b80f377b065a47975bb09441991b2
+      internalID: -2253735424517028733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1261
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb1ea51c580aac4ca2030b4e1d23ed8
+      internalID: -8318164179973179892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1096
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49f780448699d445ab58b52ce42f818
+      internalID: -198807736972364622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1096
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb27683f766f2584db8b40bd373b501b
+      internalID: 48061123543169472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1096
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f559e68dcc1cb6d47b8a74e0cdf4bb88
+      internalID: -69462717002934956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1096
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc10f186d1c74a34fa985059dba76781
+      internalID: -1391960555541175362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 921
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164df279367f94d4fb47bfe42089f67c
+      internalID: -3913138079882621186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 921
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d354de4ee74ef41a7b7771c41a5684
+      internalID: 3258464848147685297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 921
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb62a9a44c083545b48ed543192959a
+      internalID: 6971643031508078166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 767
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca02b9ff00d486949930cdaaee25a04f
+      internalID: -4699664625927514266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 767
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54f85a8fa8af614c8f635ea2c259d3e
+      internalID: 4776529893838612940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 767
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae39c90fa87fa984a911978bd061e1cb
+      internalID: 1961110641516013091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 800
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a68aac1669049a4091d2b879cfd867c
+      internalID: 2200667363650986572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 723
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae9377eae35e642a7a4b8430c62692
+      internalID: 1716556504085265902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 712
+        width: 604
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a02febdc72d474f81b5960240a6a24
+      internalID: 3672219291185159623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 723
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e334ff081915cf47870d1986861fc2f
+      internalID: -1461490548010671173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 647
+        width: 55
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c74baa21425134ead7016cd8b21bbf
+      internalID: 5305279113630155009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 658
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599ef0f5eecbf44479b276c9343ab344
+      internalID: 4394433152597667243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 658
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30310c55eebae7947a0c022b5fa0d6bc
+      internalID: 2369785063590938190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 44
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1701e466f2424e4bb2481ab336e36d8
+      internalID: -4560582710910635921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 592
+        width: 604
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49114c91619212458ed796667421636
+      internalID: 862650532116959339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 164
+        width: 43
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8503829ecbe7c47bff149bb2ad3e83
+      internalID: 6292545437954274575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 175
+        width: 604
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397cee25acdcb584b9338642bf224f52
+      internalID: 9011489931685422571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dddf0e5b46d074da4457b091018109
+      internalID: 5427156657994459919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 604
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1593168cc2cd95644be6e4fc534bcac6
+      internalID: 9056485516027999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon floor cleaned for export-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 109
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b57970192f0e744bdce14a246b3380
+      internalID: 9066769292281572673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

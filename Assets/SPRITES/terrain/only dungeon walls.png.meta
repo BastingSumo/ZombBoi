@@ -1,0 +1,838 @@
+fileFormatVersion: 2
+guid: 9b2a0c9aac8d38042ae185759c620e75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1266827853636480312
+    second: top L corner
+  - first:
+      213: 8142693174162273901
+    second: top w 1
+  - first:
+      213: -1155136094366466636
+    second: t_w_2
+  - first:
+      213: -6346926859514585235
+    second: t_w_3
+  - first:
+      213: 3999830803126456042
+    second: t w 4
+  - first:
+      213: 5260266663389583996
+    second: t w 5
+  - first:
+      213: -1787675381846365335
+    second: t w 6
+  - first:
+      213: 4631141305154831512
+    second: top right corner
+  - first:
+      213: -1514835247614305915
+    second: bacwall meet left
+  - first:
+      213: -3023726291462506024
+    second: only dungeon walls_11
+  - first:
+      213: -3017387449215469691
+    second: r wall meet
+  - first:
+      213: -1037496093480733095
+    second: only dungeon walls_13
+  - first:
+      213: -4593054499857468374
+    second: only dungeon walls_14
+  - first:
+      213: 7325707855589011199
+    second: l 1
+  - first:
+      213: 1866670550460806493
+    second: only dungeon walls_19
+  - first:
+      213: -43815787204377332
+    second: r 1
+  - first:
+      213: -7146355301431689152
+    second: l 2
+  - first:
+      213: 1510145001551902939
+    second: only dungeon walls_22
+  - first:
+      213: -1355346731812169406
+    second: r 2
+  - first:
+      213: 5006230518047607296
+    second: black squar
+  - first:
+      213: 4281680208453873871
+    second: l 3
+  - first:
+      213: 2409688934226818792
+    second: only dungeon walls_26
+  - first:
+      213: 8535151511696035845
+    second: r 3
+  - first:
+      213: 2256528622655414303
+    second: l 4
+  - first:
+      213: -3809028656881688800
+    second: only dungeon walls_29
+  - first:
+      213: -9151165995123995097
+    second: r 4
+  - first:
+      213: 5918079891913356209
+    second: bot l corn
+  - first:
+      213: -5887938261240406379
+    second: bot 1
+  - first:
+      213: 3552194626693989233
+    second: bot 2
+  - first:
+      213: -3777612518058567835
+    second: b 3
+  - first:
+      213: 1563403613243311919
+    second: b 4
+  - first:
+      213: 450067441070886673
+    second: b 5
+  - first:
+      213: -8810664974670138307
+    second: b 6
+  - first:
+      213: 4089654816970339556
+    second: bot corn right
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: top L corner
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1063
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3390427723a696e4a8094d0e4e42fa33
+      internalID: -1266827853636480312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top w 1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1063
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d5f547fa554e64d8d8ba9b2918ed2d
+      internalID: 8142693174162273901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_w_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1063
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da9aa61fa5e62944a5cdcf445d101ca
+      internalID: -1155136094366466636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t_w_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1063
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d49f0d746858419ed733c78d94948
+      internalID: -6346926859514585235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t w 4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1063
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121bc46beada7e248a76d8981e9b6603
+      internalID: 3999830803126456042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t w 5
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1063
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf2feac688fb7428f187a45d5cc645
+      internalID: 5260266663389583996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: t w 6
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1063
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f84564229eaf247a546662835e3505
+      internalID: -1787675381846365335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top right corner
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1063
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea57d81533cd169428ee21f9ece5d9b3
+      internalID: 4631141305154831512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bacwall meet left
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 888
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160104e1f0e9c7d4d892a5b752d027db
+      internalID: -1514835247614305915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r wall meet
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 888
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b81f65d7ec09749b283bde93a82256
+      internalID: -3017387449215469691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: only dungeon walls_13
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 888
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c51f14d6c10a7640a16134b1fa44189
+      internalID: -1037496093480733095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: only dungeon walls_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 866
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24c660dfca0add489352974ba6e768d
+      internalID: -4593054499857468374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l 1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 767
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d482d7540b1d48bfd22c0b7da892f
+      internalID: 7325707855589011199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r 1
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 767
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4049c21a686b84baaa7964769fbe17
+      internalID: -43815787204377332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l 2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 647
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e998dc273897a146a535de1fafece15
+      internalID: -7146355301431689152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r 2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 647
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085fc40c1af767947ab71581b66853fa
+      internalID: -1355346731812169406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black squar
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 526
+        width: 110
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1712d7cc381b2c4e919208833f93f2f
+      internalID: 5006230518047607296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l 3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 526
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74af9e7296c8664798c5837bfc07fea
+      internalID: 4281680208453873871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r 3
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 526
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce6ef0c0212a4341bb29e7a6f305bc7
+      internalID: 8535151511696035845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l 4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 405
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d88c24fff41543b1088e1df0fc6a1
+      internalID: 2256528622655414303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r 4
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 405
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaf46dda6f67e04e82f95f2acef05d0
+      internalID: -9151165995123995097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bot l corn
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 186
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf43207ab16984cb4c531d7cc15f06
+      internalID: 5918079891913356209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bot 1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 186
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dc4073b6d4fb247a5e329ad9b6308f
+      internalID: -5887938261240406379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bot 2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 186
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aef09f9c04f9984abcdea2cd840f326
+      internalID: 3552194626693989233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b 3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 186
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9ec9f5bc1598a4485cc77a810e8a4d
+      internalID: -3777612518058567835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b 4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 186
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68886b8aa2caebe4bafd9e8f908e81b1
+      internalID: 1563403613243311919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b 5
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 186
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555e1630a96e0a3419c4852d52053658
+      internalID: 450067441070886673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b 6
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 186
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce59626d79953a459ed81e320515d39
+      internalID: -8810664974670138307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bot corn right
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 186
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df69e7d0d49a0547b08b8b2ba82f4f2
+      internalID: 4089654816970339556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 56b88e5d411de814fb0c3569d197f34c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -106573481029162253
+    second: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_0
+  - first:
+      213: 3084800890750213332
+    second: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_1
+  - first:
+      213: -4672668473902462415
+    second: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_2
+  - first:
+      213: 2737864285597462918
+    second: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_3
+  - first:
+      213: -7640798974609656778
+    second: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_4
+  - first:
+      213: 2175915654308673790
+    second: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_5
+  - first:
+      213: -1482804732620022445
+    second: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_6
+  - first:
+      213: -5668071944982775881
+    second: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_7
+  - first:
+      213: -2021555810972628628
+    second: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_8
+  - first:
+      213: 2999710765289161696
+    second: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1261
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef978ee9eb01e7147b40fa9808637dec
+      internalID: -106573481029162253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1261
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c183989e6f8eb4a82400c13feea95f
+      internalID: 3084800890750213332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1261
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff67b252d6885444bab598a6153194d9
+      internalID: -4672668473902462415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1261
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e746d12b678da4e9a21fba2ffe5661
+      internalID: 2737864285597462918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1085
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a84ca5ab651a14a9a30b1fd8e68de6
+      internalID: -7640798974609656778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1085
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e34de82720d40a4a98d0bd7afb4478e
+      internalID: 2175915654308673790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1085
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2ea3fb5d3d3741b16e1362f36b908
+      internalID: -1482804732620022445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 910
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa71387f8ed0343b51797463d8bf7b
+      internalID: -5668071944982775881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 910
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2690a78e3245bb247ae36129a9511c6e
+      internalID: -2021555810972628628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN CARECTER SPRITE SHEET big Big-Sheet-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 910
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493e48eaad6b5a440826179cfb76c534
+      internalID: 2999710765289161696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

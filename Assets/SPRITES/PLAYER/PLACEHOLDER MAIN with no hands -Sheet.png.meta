@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: fcc5010564167ce44a7d4410e1cba319
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2658665278659770600
+    second: walk 1
+  - first:
+      213: -2336308710053921275
+    second: walk 2
+  - first:
+      213: 3664713690509603899
+    second: foward
+  - first:
+      213: 1766781999708193414
+    second: f1
+  - first:
+      213: 8191062290802207281
+    second: f2
+  - first:
+      213: 6151661306389967573
+    second: PLACEHOLDER MAIN with no hands -Sheet_5
+  - first:
+      213: 6531610770221572140
+    second: hands 1
+  - first:
+      213: 7809999959921945881
+    second: hands 2
+  - first:
+      213: 5044627719920945319
+    second: back
+  - first:
+      213: 6745537059806359710
+    second: b1
+  - first:
+      213: -1926875623022054678
+    second: b2
+  - first:
+      213: -5651763352756100183
+    second: PLACEHOLDER MAIN with no hands -Sheet_11
+  - first:
+      213: 7852644730518321497
+    second: PLACEHOLDER MAIN with no hands -Sheet_12
+  - first:
+      213: -5528735940840879120
+    second: PLACEHOLDER MAIN with no hands -Sheet_13
+  - first:
+      213: -5175881814391621319
+    second: PLACEHOLDER MAIN with no hands -Sheet_14
+  - first:
+      213: 3361629760843472753
+    second: PLACEHOLDER MAIN with no hands -Sheet_15
+  - first:
+      213: -3074532155138338895
+    second: PLACEHOLDER MAIN with no hands -Sheet_16
+  - first:
+      213: -5915077248443310594
+    second: PLACEHOLDER MAIN with no hands -Sheet_17
+  - first:
+      213: 3666431152861556655
+    second: PLACEHOLDER MAIN with no hands -Sheet_18
+  - first:
+      213: 4482234897365425629
+    second: PLACEHOLDER MAIN with no hands -Sheet_19
+  - first:
+      213: 2079493104631908711
+    second: PLACEHOLDER MAIN with no hands -Sheet_20
+  - first:
+      213: -4752620341342982850
+    second: PLACEHOLDER MAIN with no hands -Sheet_21
+  - first:
+      213: -1650518043745566102
+    second: PLACEHOLDER MAIN with no hands -Sheet_22
+  - first:
+      213: -5149338374883409716
+    second: PLACEHOLDER MAIN with no hands -Sheet_23
+  - first:
+      213: -1571041951290416857
+    second: PLACEHOLDER MAIN with no hands -Sheet_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk 1
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1250
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e83e271cf975e420800000000000000
+      internalID: 2658665278659770600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1250
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eb5934b93c39fd0800000000000000
+      internalID: -2336308710053921275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foward
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1074
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34f55e5fadabd230800000000000000
+      internalID: 3664713690509603899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1074
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68249203eded48810800000000000000
+      internalID: 1766781999708193414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1074
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aec5061cf7ca170800000000000000
+      internalID: 8191062290802207281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hands 1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 921
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c202c2ab361f4aa50800000000000000
+      internalID: 6531610770221572140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hands 2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 921
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d66fa9591b26c60800000000000000
+      internalID: 7809999959921945881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 899
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a80af50f2e120640800000000000000
+      internalID: 5044627719920945319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 899
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90bdfc6736fc9d50800000000000000
+      internalID: 6745537059806359710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b2
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 899
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2396374dc5245e0800000000000000
+      internalID: -1926875623022054678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN with no hands -Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 712
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e66ccc27e091b0800000000000000
+      internalID: -5651763352756100183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLACEHOLDER MAIN with no hands -Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 712
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95933edf6c23afc60800000000000000
+      internalID: 7852644730518321497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
